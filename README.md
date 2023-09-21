@@ -1,16 +1,13 @@
-### Hi there 👋
+# Привет, меня зовут Игорь!
 
-<!--
-**Klimachev123/Klimachev123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  Обо мне:
+В июле 2023 года я закончил 8 месячный курс Яндекс.Практикума "Специалист по Data Science" и в моем партфолию уже есть несколько готовых проектов. Активно ищу работу в новой для себя сфере
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-klimachevigor-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Igor_VENSUM)
+
+### Навыки 
+
+<img src="https://img.shields.io/badge/Python-B0E0E6?style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-98FB98?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-B0E0E6?style=for-the-badge&logo=postgresql&logoColor=black"/> <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+
